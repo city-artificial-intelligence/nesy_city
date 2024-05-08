@@ -1,4 +1,4 @@
-# NeSy at City Day
+# NeSy AI at City Day
 Wed, June 5th, 2024 ([R101 Franklin Building](https://staffhub.city.ac.uk/timetabling/rooms-by-building/franklin-building/r101))
 
 11:00-12:00 Artur Garcez - AI Risks and Opportunities for Neurosymbolic (NeSy) AI.
