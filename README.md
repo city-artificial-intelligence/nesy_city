@@ -12,7 +12,7 @@ Live-stream and full recording: [echo 360 access link](https://echo360.org.uk/se
 
 12:30-14:00 Lunch
 
-14:00-14:30 Ernesto Jimenez-Ruiz - Hybrid Systems, Knowledge Graphs and Language Models.
+14:00-14:30 Ernesto Jimenez-Ruiz - Hybrid Systems, Knowledge Graphs and Language Models. [slides](https://github.com/city-artificial-intelligence/nesy_city/blob/main/NeSy-at-City-Ernesto.pdf)
 
 14:30-15:00 Pranava Madhyastha - Neurosymbolic AI in the era of Large Language Models.
 
